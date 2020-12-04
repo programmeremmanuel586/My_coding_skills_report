@@ -1,5 +1,13 @@
 # My_coding_skills_report
 
+This was a little project of mine back in high school where I used my HTML and CSS skills to create a report of programming skills that I've gained at the time.
+
+I didn't know how to push my project to Github, or had the time, until now. So here it is.
+
+I'm in my second year of college now studying Computer Science with a concentration in Cybersecurity, and I don't have the time during the semester to create awesome stuff like this, but hopefully I get the time to create more stuff like this :D
+
+***Edited***
+
 Initially created on December 22nd, 2018, I wanted to apply the skills I've gained in HTML and CSS, self taught, and create a report of coding languages I have experience with and have used.
 
 Now that I'm studying Computer Science in college, I have been exposed to a lot more languages and work with complex programs to understand their usefulness in the real world and it's really cool that I have the tools to develop a mini application of my own.
